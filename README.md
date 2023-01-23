@@ -1,3 +1,3 @@
-# first-project
-this project is for testing only. 
-also this is my first repositories on github!!
+# Welcome Everyone
+This project is for testing purpose only. 
+Also this is my first repositories in github!!
